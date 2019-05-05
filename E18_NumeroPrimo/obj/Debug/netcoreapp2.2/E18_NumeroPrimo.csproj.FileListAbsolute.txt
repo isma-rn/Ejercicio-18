@@ -1,0 +1,22 @@
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.deps.json
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.runtimeconfig.json
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.runtimeconfig.dev.json
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.dll
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.pdb
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.AssemblyInfo.cs
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.dll
+C:\Users\Fam RN\source\repos\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.pdb
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.deps.json
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.runtimeconfig.json
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.runtimeconfig.dev.json
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.dll
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\bin\Debug\netcoreapp2.2\E18_NumeroPrimo.pdb
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.AssemblyInfo.cs
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.dll
+C:\Users\Fam RN\source\Ejercicios C\E18_NumeroPrimo\E18_NumeroPrimo\obj\Debug\netcoreapp2.2\E18_NumeroPrimo.pdb
